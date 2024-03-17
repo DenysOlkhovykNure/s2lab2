@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "65f6a68452645cdab8c94bb0"
+  },
+  "title": "Майстер і Маргарита",
+  "publisher": "Дніпро",
+  "publication_year": {
+    "$date": {
+      "$numberLong": "-94694398033"
+    }
+  },
+  "authors": [
+    "Михайло Булгаков"
+  ],
+  "pages": 384,
+  "isbn": "978-966-03-5987-0"
+},
+{
+  "_id": {
+    "$oid": "65f6a68452645cdab8c94bb1"
+  },
+  "title": "1984",
+  "publisher": "Harvill Secker",
+  "publication_year": {
+    "$date": {
+      "$numberLong": "-662687998051"
+    }
+  },
+  "authors": [
+    "Джордж Орвелл"
+  ],
+  "pages": 328,
+  "isbn": "978-0-15-101026-4"
+},
+{
+  "_id": {
+    "$oid": "65f6a68452645cdab8c94bb2"
+  },
+  "title": "Гаррі Поттер і філософський камінь",
+  "publisher": "Bloomsbury",
+  "publication_year": {
+    "$date": "1997-01-01T00:00:01.997Z"
+  },
+  "authors": [
+    "Джоан Роулінг"
+  ],
+  "pages": 332,
+  "isbn": "0-7475-3269-9"
+},
+{
+  "_id": {
+    "$oid": "65f6a68452645cdab8c94bb3"
+  },
+  "title": "National Geographic",
+  "publisher": "National Geographic Society",
+  "publication_year": {
+    "$date": {
+      "$numberLong": "-2587679998112"
+    }
+  },
+  "authors": [
+    "Різні автори"
+  ],
+  "issue_number": 1
+},
+{
+  "_id": {
+    "$oid": "65f6a68452645cdab8c94bb4"
+  },
+  "title": "The New York Times",
+  "publisher": "The New York Times Company",
+  "publication_year": {
+    "$date": {
+      "$numberLong": "-3755289598149"
+    }
+  },
+  "authors": [
+    "Різні автори"
+  ],
+  "issue_number": 1
+},
+{
+  "_id": {
+    "$oid": "65f6f48058f5e1bd018fb78c"
+  },
+  "title": "Війна і мир",
+  "publisher": "Рідна Мова",
+  "publication_year": {
+    "$date": {
+      "$numberLong": "-3187209598131"
+    }
+  },
+  "authors": [
+    "Лев Толстой",
+    "Лев Николаевич Глібов"
+  ],
+  "pages": 1225,
+  "isbn": "978-966-10-3826-5"
+},
+{
+  "_id": {
+    "$oid": "65f6f48058f5e1bd018fb78d"
+  },
+  "title": "Хоббіт, або Туди і звідти",
+  "publisher": "George Allen & Unwin",
+  "publication_year": {
+    "$date": {
+      "$numberLong": "-1041379198063"
+    }
+  },
+  "authors": [
+    "Дж. Р. Р. Толкін"
+  ],
+  "pages": 310,
+  "isbn": "978-0-261-10255-6"
+},
+{
+  "_id": {
+    "$oid": "65f6f4cb2159e149b296ab04"
+  },
+  "title": "Атлас Сходу",
+  "publisher": "National Geographic Society",
+  "publication_year": {
+    "$date": "2008-01-01T00:00:02.008Z"
+  },
+  "authors": [
+    "Фредерік Альбер",
+    "Сара Халтеман",
+    "Джеймс М. Річардсон"
+  ],
+  "pages": 400,
+  "isbn": "978-1426202744"
+},
+{
+  "_id": {
+    "$oid": "65f6f4cb2159e149b296ab05"
+  },
+  "title": "Думай як вчитель. Професійна знімалка",
+  "publisher": "Синьоокий кіт",
+  "publication_year": {
+    "$date": "2020-01-01T00:00:02.020Z"
+  },
+  "authors": [
+    "Джон Хейті"
+  ],
+  "pages": 320,
+  "isbn": "978-966-469-298-3"
+},
+{
+  "_id": {
+    "$oid": "65f6f4cb2159e149b296ab06"
+  },
+  "title": "Forbes",
+  "publisher": "Forbes Media",
+  "publication_year": {
+    "$date": {
+      "$numberLong": "-1672531198083"
+    }
+  },
+  "authors": [
+    "Різні автори"
+  ],
+  "issue_number": 1,
+  "issue_year": 1917,
+  "journal_name": "Forbes"
+},
+{
+  "_id": {
+    "$oid": "65f6f4cb2159e149b296ab07"
+  },
+  "title": "Містерія та її розгадка",
+  "publisher": "Світ",
+  "publication_year": {
+    "$date": "2021-01-01T00:00:02.021Z"
+  },
+  "authors": [
+    "Агата Крісті",
+    "Артур Конан Дойль"
+  ],
+  "pages": 256,
+  "isbn": "978-617-12-3539-6"
+},
+{
+  "_id": {
+    "$oid": "65f6f4cb2159e149b296ab08"
+  },
+  "title": "Наукова америка",
+  "publisher": "Springer Nature",
+  "publication_year": {
+    "$date": {
+      "$numberLong": "-3944591998155"
+    }
+  },
+  "authors": [
+    "Різні автори"
+  ],
+  "issue_number": 1,
+  "issue_year": 1845,
+  "journal_name": "Наукова америка"
+}]
